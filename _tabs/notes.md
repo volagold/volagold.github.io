@@ -50,7 +50,7 @@ Course notes for algorithms course. Part of the course followed [Cormen's Introd
 
 ## Course Notes for Optimization
 
-This is my course notes on optimal control theory. First we discuss Banach spaces and Hilbert spaces. Full proofs are given to The [Banach fixed point theorem](https://en.wikipedia.org/wiki/Banach_fixed-point_theorem), the [Schauder's fixed point theorem](https://en.wikipedia.org/wiki/Schauder_fixed-point_theorem) and the [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem). Next, in section 3, we discuss calculus of variations, including the famous Euler-Lagrange equation. Section 4 includes an introduction to optimal control problems and the Bang-bang principle. Finally the Pontraygin maximum principle and dynamic programming are discussed. Many examples are present in the notes.
+This is my course notes on optimal control theory. First we discuss Banach spaces and Hilbert spaces. Full proofs are given to the Banach fixed point theorem, the Schauder's fixed point theorem and the Riesz representation theorem. Next, in section 3, we discuss calculus of variations, including the famous Euler-Lagrange equation. Section 4 includes an introduction to optimal control problems and the Bang-bang principle. Finally the Pontraygin maximum principle and dynamic programming are discussed. Many examples are present in the notes.
 
 {% include pdf-block.html abbr="opt"
                           filename="optimization.pdf" 
