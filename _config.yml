@@ -28,8 +28,8 @@ github:
 #   username:
 
 social:
-  name: Fei Li
-  email: fei.li.best@outlook.com
+  name: volagold
+  email:
   links:
     - https://volagold.github.io
     - https://github.com/volagold     
@@ -53,9 +53,9 @@ avatar: 'https://avatars.githubusercontent.com/u/38937278'
 
 toc: true
 
-# disqus:
-#   comments: true
-#   shortname: ''
+disqus:
+  comments: 
+  shortname:
 
 paginate: 6
 
