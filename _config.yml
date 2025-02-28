@@ -8,21 +8,21 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: lifeitech.github.io
+title: volagold.github.io
 
 tagline: data science and programming blogs 
 
 description: >-
-  Fei Li's data science and programming blogs.
+  data science and programming blogs
 
 
 
-url: 'https://lifeitech.github.io'
+url: 'https://volagold.github.io'
 
 image: '/assets/imgs/website-post.jpg'
 
 github:
-  username: lifeitech
+  username: volagold
 
 # twitter:
 #   username:
@@ -31,9 +31,9 @@ social:
   name: Fei Li
   email: fei.li.best@outlook.com
   links:
-    - https://lifeitech.github.io
-    - https://github.com/lifeitech     
-    - https://www.linkedin.com/in/lifeipro
+    - https://volagold.github.io
+    - https://github.com/volagold     
+    - https://www.linkedin.com/
 
 google_site_verification: google_meta_tag_verification
 
@@ -53,9 +53,9 @@ avatar: 'https://avatars.githubusercontent.com/u/38937278'
 
 toc: true
 
-disqus:
-  comments: true
-  shortname: 'www-lifei-tech'
+# disqus:
+#   comments: true
+#   shortname: ''
 
 paginate: 6
 
